@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ali saboori
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on new website that im working on
+- 😃 I’m looking to collaborate on new website that im working on
 - 📫 How to reach me mr.alisaboori@gmail.com
 
 <!---
